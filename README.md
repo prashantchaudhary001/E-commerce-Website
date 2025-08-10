@@ -23,6 +23,8 @@ This project provides a seamless shopping experience with secure payment integra
 ---
 
 <img width="1802" height="897" alt="image" src="https://github.com/user-attachments/assets/d2ad81be-9eb3-4a32-b4e6-548a847dfd80" />
+<img width="1876" height="904" alt="image" src="https://github.com/user-attachments/assets/0dd0ee0f-4a0c-4ad8-ad65-03271232e84a" />
+
 
 
 ---
